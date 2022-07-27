@@ -1,0 +1,17 @@
+{
+    "name": "Greencof",
+    "blocks": {
+        "/blockchain/polygon": true,
+        "/blockchain/polygon/solidity": true,
+        "/framework/react": true,
+        "/category/access_control/core-administrator_role": true,
+        "/category/access_control/core-contract_runstate": true,
+        "/category/access_control/core-contract_access": true,
+        "/category/asset_value_tracking/core-token": true,
+        "/category/asset_value_tracking/core-token/name": "Greencoffee",
+        "/category/asset_value_tracking/core-token/symbol": "GFE",
+        "/category/asset_value_tracking/core-token/decimals": "9",
+        "/category/asset_value_tracking/core-token/supply": "200000",
+        "/category/collection/core-entity": true
+    }
+}
